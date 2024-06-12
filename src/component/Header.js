@@ -19,7 +19,7 @@ const Header = () => {
 					component='div'
 					sx={{ flexGrow: 1, textAlign: "center" }}
 				>
-					Hybrid Aplication
+					Hybrid Aplication View
 				</Typography>
 			</Toolbar>
 		</AppBar>
